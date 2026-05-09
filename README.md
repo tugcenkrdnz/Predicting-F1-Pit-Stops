@@ -1,4 +1,4 @@
- # 🏎️ F1 Pit Stop Prediction & Strategy Dashboard
+ # Kaggle Playground Series S6E5 -🏎️ F1 Pit Stop Prediction & Strategy Dashboard
 
 Bu proje, Formula 1 yarış verilerini kullanarak bir pilotun bir sonraki turda pite girip girmeyeyeceğini tahmin eden yüksek başarımlı bir makine öğrenmesi modelidir. Model, Kaggle Playground Series (S6E5) kapsamında geliştirilmiş ve **0.9503 AUC** skoruna ulaşmıştır.
 
