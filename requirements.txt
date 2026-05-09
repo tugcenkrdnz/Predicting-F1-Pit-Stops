@@ -1,0 +1,20 @@
+# F1 Pit Stop Prediction Project Requirements
+# Bu dosya projenin çalışması için gerekli kütüphaneleri içerir.
+
+# Veri işleme ve analiz
+pandas
+numpy
+
+# Makine Öğrenmesi Modeli
+catboost
+
+# Arayüz (Deployment)
+streamlit
+
+# Görselleştirme (EDA ve Analiz)
+matplotlib
+seaborn
+yellowbrick
+
+# Veri Hazırlama ve Metrikler
+scikit-learn
