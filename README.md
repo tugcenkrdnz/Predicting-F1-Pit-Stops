@@ -23,7 +23,7 @@ Eğer elinizde hazır model (`.cbm`) yoksa, önce eğitim scriptini çalıştır
 
 ```python
 # train.py (veya jupyter notebook içinden)
-model.fit(X, y)
+model.fit(x, y)
 model.save_model('catboost_pit_stop_model.cbm')
 
 ```
